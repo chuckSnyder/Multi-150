@@ -1,0 +1,14 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://www.google.com/search?sca_esv=b279387295a54f15&sxsrf=ANbL-n7VQCYZgcE4KQXlLUeeu8CW1cqb3w:1772045461068&q=brick+texture+modern&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-YV-lRKgxbXFUKPzYPZyKeATY4flVMfYNBcHpTto1zs-l1RTivrzHt1ZeALoDSNS2-OtRtH118qG4hnr3cqVYqanY5tqJLZTEajsys6NBIHHpSu7b73UgyayOft4Pvzn5ywMeDQ&udm=2&sa=X&ved=2ahUKEwil9u3hp_WSAxX5DzQIHX6pHmoQxKsJKAN6BAgTEAE&ictx=0&biw=1536&bih=695&dpr=1.25#sv=CAMSVhoyKhBlLTBLNXVRM05UbXZkV1NNMg4wSzV1UTNOVG12ZFdTTToOTkFjclJ4LWJnTUNCR00gBCocCgZtb3NhaWMSEGUtMEs1dVEzTlRtdmRXU00YADABGAcg_eLl9AkwAkoIEAIYAiACKAI
+
+Texture 2 source url: https://www.google.com/search?q=diamond+texture+modern&sca_esv=b279387295a54f15&udm=2&biw=1536&bih=695&sxsrf=ANbL-n6xRMzpqBDymznleDu0YDP3kVQJOw%3A1772045467824&ei=m0SfaeGhLc2Rm9cPxPGgoAg&ved=0ahUKEwih24Xlp_WSAxXNyOYEHcQ4CIQQ4dUDCBI&uact=5&oq=diamond+texture+modern&gs_lp=Egtnd3Mtd2l6LWltZyIWZGlhbW9uZCB0ZXh0dXJlIG1vZGVybkiwDFAAWMgKcAB4AJABAJgBtwGgAaUGqgEDNi4yuAEDyAEA-AEBmAICoALgAcICBhAAGAcYHsICBRAAGIAEwgIIEAAYBxgIGB6YAwCSBwMwLjKgB-cPsgcDMC4yuAfgAcIHBTItMS4xyAcPgAgA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLW0xMGNEQkNnVkR2Q3lNMg5tMTBjREJDZ1ZEdkN5TToOQklkYnJCdS05UG14Yk0gBCocCgZtb3NhaWMSEGUtbTEwY0RCQ2dWRHZDeU0YADABGAcgiarrzgIwAkoIEAIYAiACKAI
+
+3D model source url: https://www.google.com/search?q=brass+texture+modern&sca_esv=b279387295a54f15&udm=2&biw=1536&bih=695&sxsrf=ANbL-n6O798vJ-267AZnEzUXUkM1PxnrOA%3A1772045697001&ei=gEWfadDnPPjy0PEPnv23wQY&ved=0ahUKEwjQp67SqPWSAxV4OTQIHZ7-LWgQ4dUDCBI&uact=5&oq=brass+texture+modern&gs_lp=Egtnd3Mtd2l6LWltZyIUYnJhc3MgdGV4dHVyZSBtb2Rlcm5I_ApQAFiKCXAAeACQAQCYAWOgAZYEqgEBNrgBA8gBAPgBAZgCAqACvgHCAgYQABgHGB7CAggQABgHGAoYHsICCBAAGAcYCBgemAMAkgcBMqAH3w2yBwEyuAe-AcIHAzItMsgHCoAIAA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLVU1a3Y2Q09zSS1KOVBNMg5VNWt2NkNPc0ktSjlQTToOWXVQdlNmbjZWNG9pMk0gBCocCgZtb3NhaWMSEGUtVTVrdjZDT3NJLUo5UE0YADABGAcgrs_Y1wkwAkoIEAIYAiACKAI
+
